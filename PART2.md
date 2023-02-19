@@ -39,9 +39,10 @@ List all the features completed.
 
 1. Generate random objects inside the gameboard.
 2. Made the interface of the game.
-3. Adding details to make the code presentable
-4. Tried making save but not successful
-5. Make the quit button
+3. Made the quit command.
+4. Made About Us function.
+5. Compile everyone's final coding
+6. Record and Edit the Video demonstration
 
 ### Yasmin Irdina
 
@@ -50,5 +51,5 @@ List all the features completed.
 3. Create the attributes of the alien and zombies
 4. Create the each objects of the board to have a value 
 5. Create the New Game Object (Trap)
-6. Create Save but when combined, not sync with the gameboard
-7. Try making Load but unsuccesful
+6. Create Save
+7. Create Load
